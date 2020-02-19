@@ -1143,4 +1143,5 @@ If you create your own payment gateway module or find one that's not in this lis
 [Transbank Webpay]: https://www.drupal.org/project/commerce_webpay
 [Valitor]: https://www.drupal.org/project/commerce_valitor
 [Verifone]: https://www.drupal.org/project/commerce_verifone
+[Chargelogic Payment]: https://www.drupal.org/project/chargelogic_payment
 [let us know about it]: https://github.com/drupalcommerce/commerce-docs/issues
